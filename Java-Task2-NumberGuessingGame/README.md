@@ -58,14 +58,7 @@ Java-Task2-NumberGuessingGame
 5. Play multiple rounds and view your score summary.
 
 ---
-
 ## 📸 Screenshots
-
-### Welcome Screen
-
-![Welcome Screen](screenshots/welcome.png)
-
----
 
 ### Winning the Game
 
@@ -73,9 +66,15 @@ Java-Task2-NumberGuessingGame
 
 ---
 
+### Losing the Game
+
+![Losing the Game](screenshots/lose.png)
+
+---
+
 ### Score Summary
 
-![Score Summary](screenshots/score_summary.png)
+![Score Summary](screenshots/score.png)
 ---
 
 ## 👩‍💻 Author
