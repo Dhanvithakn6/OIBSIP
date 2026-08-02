@@ -101,31 +101,35 @@ Main.java
 ```
 
 ---
+## 📸 Screenshots
 
-## 📸 Application Screenshots
+### Login Screen
 
-### Login Page
-
-*(Add login screenshot here)*
-
----
-
-### Reservation Window
-
-*(Add reservation screenshot here)*
+![Login Screen](screenshots/login.png)
 
 ---
 
-### Booking Confirmation
+### Reservation Screen
 
-*(Add booking success screenshot here)*
+![Reservation Screen](screenshots/reservation.png)
 
 ---
 
-### Cancellation Window
+### Booking Successful
 
-*(Add cancellation screenshot here)*
+![Booking Success](screenshots/booking_success.png)
 
+---
+
+### Cancellation Screen
+
+![Cancellation Screen](screenshots/cancellation.png)
+
+---
+
+### Cancellation Successful
+
+![Cancellation Success](screenshots/cancellation_success.png)
 ---
 
 ## 🚀 Future Enhancements
