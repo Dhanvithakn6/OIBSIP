@@ -61,15 +61,21 @@ Java-Task2-NumberGuessingGame
 
 ## 📸 Screenshots
 
-Add your screenshots inside the **screenshots** folder and update this section.
+### Welcome Screen
 
-Example:
+![Welcome Screen](screenshots/welcome.png)
 
-- Welcome Screen
-- Winning the Game
-- Losing the Game
-- Score Summary
+---
 
+### Winning the Game
+
+![Winning the Game](screenshots/win.png)
+
+---
+
+### Score Summary
+
+![Score Summary](screenshots/score_summary.png)
 ---
 
 ## 👩‍💻 Author
